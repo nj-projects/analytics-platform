@@ -1,0 +1,17 @@
+# General
+.env
+*.log
+
+# Python
+__pycache__/
+.venv/
+
+# Java
+target/
+*.class
+
+# Rust
+target/
+
+# Node
+node_modules/
